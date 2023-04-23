@@ -6,9 +6,17 @@ In this instructure you will learn about how to use this package in your apps.
 
 ## Table of content
 
+- [Languages](#languages)
 - [Installation](#installation)
 - [methods](#methods)
 - [Development](#development)
+
+## Languages
+
+I created rayid for **JavaScript** too.
+
+- [GitLab](https://gitlab.com/BlackIQ/rayid)
+- [Npm](https://www.npmjs.com/package/rayid)
 
 ## Installation
 
